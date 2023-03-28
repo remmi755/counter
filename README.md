@@ -13,5 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![Counter](https://github.com/remmi755/counter/blob/master/Screenshot_2.jpg)
 
-Using React Hook useState
+<h3>Using React Hook useState</h3>
+
 
