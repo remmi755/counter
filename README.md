@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Getting+Started+with+Create+React+App)](https://git.io/typing-svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
